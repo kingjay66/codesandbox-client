@@ -22,7 +22,7 @@
     "vscode": "^1.52.0"
   },
   "dependencies": {
-    "@astrojs/language-server": "0.13.2",
+    "@astrojs/language-server": "0.20.0",
     "@astrojs/ts-plugin": "0.2.1",
     "vscode-languageclient": "~7.0.0"
   },
