@@ -72,10 +72,10 @@
     "prettify": "prettier -w ."
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.2.0",
-    "@typescript-eslint/parser": "^4.2.0",
+    "@typescript-eslint/eslint-plugin": "^6.1.0",
+    "@typescript-eslint/parser": "^8.3.0",
     "opencollective": "^1.0.3",
-    "patch-package": "^6.5.0",
+    "patch-package": "^7.0.2",
     "postinstall-postinstall": "^2.1.0"
   },
   "devDependencies": {
